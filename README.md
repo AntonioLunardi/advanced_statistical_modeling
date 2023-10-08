@@ -1,2 +1,2 @@
-# advanced_statistical_modeling
+# advanced statistical modeling
 A pair of scripts that contains profound statistical analyses. The first one approaches a linear model, while the second one a binomial distribution (GLM)
